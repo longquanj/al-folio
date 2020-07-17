@@ -8,16 +8,23 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Guilin Road, Xuhui District</p>
+    <p>Shanghai City, China</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently an algorithm engineer at Lufax. Before joining it, I worked at Macrowing Inc. as NLP R&D engineer, and at Mainiway AI Lab as NLP research intern, mentored by [Dr. Or Biran](http://www.cs.columbia.edu/~orb/) and [Dr. Yassine Benajiba](https://www.linkedin.com/in/yassine-benajiba-0180516/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my M.Sc degree from Shanghai Normal University in 2018 under the supervision of Prof. Bo Zhang, with a focus on intelligent information processing using machine learning techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research Interests:**
+
+My research interest mainly focuses on applying statistical machine learning techniques to many NLP tasks including Sentiment Analysis, Question Answering, Information Extraction, Multimodel Analysis, etc. 
+
+**Professional Service:**
+
+* Reviewer for the [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications).
+
+* Reviewer for the journal [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639).
