@@ -266,12 +266,22 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-      .abbr {
+      .jabbr {
         height: 2rem;
         margin-bottom: 0.5rem;
-        abbr {
+        jabbr {
           display: inline-block;
           background-color: $theme-color;
+          padding-left: 1rem;
+          padding-right: 1rem;
+        }
+      }
+      .cabbr {
+        height: 2rem;
+        margin-bottom: 0.5rem;
+        cabbr {
+          display: inline-block;
+          background-color: $blue-color;
           padding-left: 1rem;
           padding-right: 1rem;
         }
